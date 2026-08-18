@@ -6,7 +6,7 @@
 
 ### You are in the right place. The code is one org over.
 
-**bundle.social** is built by **Bundle Global**. Everything open - the SDK, the examples,
+**bundle.social** is built by **bundle.global**. Everything open - the SDK, the examples,
 the docs source - lives at [**@bundleglobal**](https://github.com/bundleglobal).
 
 <br>
