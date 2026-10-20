@@ -26,6 +26,7 @@ the docs source - lives at [**@bundleglobal**](https://github.com/bundleglobal).
 | **Docs source** | [bundleglobal/bundlesocial-docs](https://github.com/bundleglobal/bundlesocial-docs) → [info.bundle.social](https://info.bundle.social/welcome?ref=github-org-readme) |
 | **CLI** | `npx bundlesocial-cli` · [docs](https://info.bundle.social/api-reference/cli?ref=github-org-readme) |
 | **MCP server** | `npx bundlesocial-mcp` · [docs](https://info.bundle.social/api-reference/mcp?ref=github-org-readme) |
+| **n8n node** | `n8n-nodes-bundlesocial` · [docs](https://info.bundle.social/api-reference/n8n?ref=github-org-readme) |
 | **OpenAPI spec** | [api.bundle.social/swagger-json](https://api.bundle.social/swagger-json) |
 | **Status** | [bundlesocial.betteruptime.com](https://bundlesocial.betteruptime.com) |
 
